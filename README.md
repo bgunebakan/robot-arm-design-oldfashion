@@ -3,7 +3,7 @@ robot-arm-design
 
 
 
-Requitments
-===========
+Requirements
+============
 
 - SolidWorks 2012
